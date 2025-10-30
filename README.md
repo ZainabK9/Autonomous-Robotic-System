@@ -83,7 +83,3 @@ The project was completed in **four milestones**:
 - Tipaldi & Burgard (2015). *Occupancy Mapping*  
 - Pygame & SciPy documentation  
 
----
-
-## 💬 Summary
-This project demonstrates a fully functional **autonomous exploration and mapping pipeline** built from scratch, integrating **classical robotics algorithms** with **neural evolution-based control** for intelligent, adaptive navigation in unknown environments.
