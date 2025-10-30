@@ -1,0 +1,8 @@
+pygame
+numpy
+matplotlib
+jupyterlab
+pillow 
+imageio 
+imageio-ffmpeg
+scipy
